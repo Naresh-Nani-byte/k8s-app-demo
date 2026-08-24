@@ -1,1 +1,1 @@
-# k8s-vault-installation-demo
+# k8s-app-deployment-demo
